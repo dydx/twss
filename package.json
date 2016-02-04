@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dclassify": "^1.1.2"
+    "dclassify": "^1.1.2",
+    "express": "^4.13.4",
+    "node-ngram": "0.0.8",
+    "restify": "^4.0.3",
+    "underscore": "^1.8.3"
   }
 }
